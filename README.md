@@ -14,6 +14,7 @@ LoveDA es un conjunto de datos de teledetección para la segmentación semántic
 ## Autor de la ficha
 
 **Nombre:** Julian Andrés Quintero Rincón
+**Correo electrónico:** juaquinteror@udistrital.edu.co
 **Código:** 20211025017
 **Asignatura:** Inteligencia Artificial aplicada al Territorio
 **Docente:** Paulo Cesar Coronado Sánchez

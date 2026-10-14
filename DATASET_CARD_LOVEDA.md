@@ -124,17 +124,18 @@ Users should:
 **BibTeX:**
 
 ```bibtex
-@article{wang2021loveda,
-  title={LoveDA: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation},
-  author={Wang, Junjue and Zheng, Zhuo and Ma, Ailong and Lu, Xiaoyan and Zhong, Yanfei},
-  journal={arXiv preprint arXiv:2109.09417},
-  year={2021}
+@inproceedings{mitchell2019model,
+  title={Model Cards for Model Reporting},
+  author={Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit},
+  booktitle={Proceedings of the Conference on Fairness, Accountability, and Transparency},
+  pages={220--229},
+  year={2019}
 }
 ```
 
 **APA:**
 
-Wang, J., Zheng, Z., Ma, A., Lu, X., & Zhong, Y. (2021). LoveDA: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation. *arXiv preprint arXiv:2109.09417*.
+Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., & Gebru, T. (2019). Model Cards for Model Reporting. In *Proceedings of the Conference on Fairness, Accountability, and Transparency* (pp. 220–229).
 
 ## Glossary
 
@@ -156,6 +157,8 @@ Julian Andrés Quintero Rincón
 
 ## Dataset Card Contact
 
-Julian Andrés Quintero Rincón - Código: 20211025017
-Asignatura: Inteligencia Artificial aplicada al Territorio
-Docente: Paulo Cesar Coronado Sánchez
+- **Nombre:** Julian Andrés Quintero Rincón
+- **Correo electrónico:** juaquinteror@udistrital.edu.co
+- **Código:** 20211025017
+- **Asignatura:** Inteligencia Artificial aplicada al Territorio
+- **Docente:** Paulo Cesar Coronado Sánchez
