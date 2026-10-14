@@ -152,22 +152,12 @@ Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., S
 
 - Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., Spitzer, E., Raji, I. D., & Gebru, T. (2019). Model Cards for Model Reporting. *FAT* 2019*. https://arxiv.org/abs/1810.03993
 
-- Wang, Y., et al. (2025). Towards a Unified Copernicus Foundation Model for Earth Vision. *ICCV 2025* (oral), arXiv:2503.11849. https://arxiv.org/abs/2503.11849 (latest version: v3, 31 Jul 2025 — https://arxiv.org/html/2503.11849v3)
-
-### Related Resources
-
-- **Official code repository:** https://github.com/zhu-xlab/Copernicus-FM (README, LICENSE, Copernicus-FM/demo.ipynb, Copernicus-FM/src/)
-- **Model weights:** https://huggingface.co/wangyi111/Copernicus-FM (CopernicusFM_ViT_base_varlang_e100.pth, CopernicusFM_ViT_large_varlang_e100.pth, varname_embed/varname_embed_llama3.2_1B.pt)
-- **Pretraining dataset card:** https://huggingface.co/datasets/wangyi111/Copernicus-Pretrain
-- **Copernicus-Bench datasets:** https://huggingface.co/datasets/wangyi111/Copernicus-Bench
-- **Copernicus-Embed-025deg dataset:** https://huggingface.co/datasets/wangyi111/Copernicus-Embed-025deg
-- **Hugging Face model card template (structure):** https://github.com/huggingface/huggingface_hub/tree/main/src/huggingface_hub/templates
+- Wang, J., Zheng, Z., Ma, A., Lu, X., & Zhong, Y. (2021). LoveDA: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation. *arXiv preprint arXiv:2109.09417*. https://arxiv.org/abs/2109.09417
 
 ### Project Resources
 
 - **Google Colab (model implementation):** https://colab.research.google.com/drive/1RXXmFvZP2aOttjqmVWsFnODcvsut26B2?usp=sharing
 - **LoveDA official repository:** https://github.com/Junjue-Wang/LoveDA
-- **LoveDA paper:** https://arxiv.org/abs/2109.09417
 
 ## Dataset Card Authors
 
