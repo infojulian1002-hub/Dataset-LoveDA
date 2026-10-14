@@ -38,7 +38,8 @@ The dataset deliberately challenges models with: multi-scale objects, complex ba
 ### Dataset Sources
 
 - **Repository:** https://github.com/Junjue-Wang/LoveDA
-- **Paper:** https://arxiv.org/abs/2109.09417
+- **Paper (LoveDA dataset):** https://arxiv.org/abs/2109.09417
+- **Paper (Model Cards methodology):** https://arxiv.org/abs/1810.03993
 
 ## Uses
 
@@ -149,7 +150,8 @@ Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., S
 
 For more details about the dataset, please visit:
 - Official repository: https://github.com/Junjue-Wang/LoveDA
-- Paper: https://arxiv.org/abs/2109.09417
+- LoveDA paper: https://arxiv.org/abs/2109.09417
+- Model Cards methodology paper: https://arxiv.org/abs/1810.03993
 
 ## Dataset Card Authors
 
@@ -157,8 +159,12 @@ Julian Andrés Quintero Rincón
 
 ## Dataset Card Contact
 
-- **Nombre:** Julian Andrés Quintero Rincón
-- **Correo electrónico:** juaquinteror@udistrital.edu.co
-- **Código:** 20211025017
-- **Asignatura:** Inteligencia Artificial aplicada al Territorio
-- **Docente:** Paulo Cesar Coronado Sánchez
+**Nombre:** Julian Andrés Quintero Rincón
+
+**Correo electrónico:** juaquinteror@udistrital.edu.co
+
+**Código:** 20211025017
+
+**Asignatura:** Inteligencia Artificial aplicada al Territorio
+
+**Docente:** Paulo Cesar Coronado Sánchez
